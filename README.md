@@ -1,0 +1,2 @@
+# pysql
+python operating mysql
